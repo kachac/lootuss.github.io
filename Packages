@@ -1,0 +1,13 @@
+Package: com.lotus.rockerforinsta
+Version: 3.7.1
+Architecture: iphoneos-arm
+Maintainer: Lotus <mehmet.y_2000@hotmail.com>
+Filename: /RockerForİnsta.deb
+Size: 7.509.766
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+Section: <section on your repo>
+Description: <description>
+Author: Yourname <email (put in <>)>
+Name: RockerForİnsta
